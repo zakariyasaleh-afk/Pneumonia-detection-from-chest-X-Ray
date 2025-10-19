@@ -5,7 +5,7 @@ Chest X-Ray Pneumonia Classification
 A convolutional neural network (CNN) that classifies chest X-ray images as Normal or Pneumonia using the Kaggle Chest X-Ray Pneumonia dataset. The project is designed to run in Google Colab with GPU support.
 
 ## Dataset
-- Source: Kaggle
+- Source: [Kaggle dataset](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - Classes: NORMAL, PNEUMONIA
 - Images: ~5,800 training, 600+ test
 
@@ -37,8 +37,10 @@ A convolutional neural network (CNN) that classifies chest X-ray images as Norma
 -	Test Loss: 0.53
 -	Confusion matrix :
 <img width="517" height="547" alt="image" src="https://github.com/user-attachments/assets/f35b2bee-a394-4c48-afba-36128cf0dbb8" />
+
+
 - Precision/Recall/F1-score:
- <img width="412" height="133" alt="Screenshot 2025-10-19 215043" src="https://github.com/user-attachments/assets/63919b3c-5e00-4f1b-84ab-b9d90c5d320d" />
+<img width="412" height="133" alt="Screenshot 2025-10-19 215043" src="https://github.com/user-attachments/assets/63919b3c-5e00-4f1b-84ab-b9d90c5d320d" />
 
 	  
     
