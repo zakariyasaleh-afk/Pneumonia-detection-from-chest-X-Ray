@@ -46,8 +46,7 @@ A convolutional neural network (CNN) that classifies chest X-ray images as Norma
     
 ## Usage
 -Upload any chest X-ray image to predict Normal or Penumonia
-```
-python
+```python
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing import image
 import numpy as np
