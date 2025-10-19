@@ -36,6 +36,8 @@ Results
 	•	Test Accuracy: 81%
 	•	Test Loss: 0.53
 	•	Confusion matrix 
+	   <img width="517" height="547" alt="image" src="https://github.com/user-attachments/assets/f35b2bee-a394-4c48-afba-36128cf0dbb8" />
+
     
 
 Usage
